@@ -11,7 +11,7 @@ The first step is gathering relevant data, commonly from datasets like the Pima 
 Data preprocessing involves handling any missing values, normalizing the data, and splitting it into training and testing sets.
 
 <br><strong> Feature Selection</strong> <br>
-Selecting the most relevant features from the dataset is crucial for improving the model's accuracy. This can <br>
+Selecting the most relevant features from the dataset is crucial for improving the model's accuracy.<br>
 The features used in the prediction model include: <br>
 Pregnancies: Number of pregnancies. <br>
 Glucose: Plasma glucose concentration. <br>
