@@ -1,0 +1,2 @@
+# How to run the streamlit file in the terminal
+Use the command --> streamlit run "disease.py"
