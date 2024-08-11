@@ -29,7 +29,7 @@ Various machine learning models, such as Logistic Regression, Decision Trees, Ra
 The model's effectiveness is assessed using metrics like accuracy, precision, recall, and F1-score. Cross-validation techniques can further ensure the model's robustness.
 
 <br><strong> Saving the Model</strong> <br>
-<br>Once trained, the model can be saved using a serialization technique like pickle. This allows the model to be stored and reused without needing to retrain it each time.
+Once trained, the model can be saved using a serialization technique like pickle. This allows the model to be stored and reused without needing to retrain it each time.
 
 <br><strong> Deployment Using Streamlit</strong> <br>
 The saved model can be deployed as a web application using the Streamlit library. Streamlit provides an easy way to create an interactive interface where users can input features and get predictions. This makes the model accessible to a broader audience.
